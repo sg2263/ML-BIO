@@ -1,2 +1,2 @@
 # ML-BIO
-Preprocessing biological dataset for classification results 
+Feature Selcetion on biological dataset for classification results using varience threshold
